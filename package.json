@@ -1,0 +1,9 @@
+{
+  "name": "donation-table-parser",
+  "version": "0.0.1",
+  "description": "Parse donations from Google sheets into an ASCII table",
+  "main": "index.js",
+  "author": "Johannes Palvanen",
+  "license": "MIT",
+  "private": false
+}
